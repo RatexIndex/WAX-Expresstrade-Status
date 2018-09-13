@@ -7,7 +7,7 @@ function refresh()
 			console.log(err);
 		},
 		success: function(result) {
-			$("span.steamstatus").html(result);
+			$("span.express_status").html(result);
 		}
 	});
 	
