@@ -1,6 +1,11 @@
 # WAX-Expresstrade-Status
 OPSkins WAX Expresstrade Website Status Checker
 
+![Screenshot](http://fs1.directupload.net/images/180913/nr8mmna9.png)  
+  
+Demo Page: https://vgoking.xyz  
+  
+  
 All what you need to do is.
 
 1. Copy the text from the main.js file in your "named".js
